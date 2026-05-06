@@ -90,7 +90,7 @@ Users / Rides Microservices
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/mini-dbaas-rideshare.git
+   git clone 'url'
    cd mini-dbaas-rideshare
    ```
 
