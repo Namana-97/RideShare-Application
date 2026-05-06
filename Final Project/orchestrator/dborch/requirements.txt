@@ -1,0 +1,6 @@
+flask
+pika
+requests
+kazoo
+docker
+uuid

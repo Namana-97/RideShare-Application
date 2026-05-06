@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  users:
+    image: users:latest
+    build: ./user
+    container_name: users
+    command: python3 user.py
+    restart: always
+    ports:
+      - "80:80"
